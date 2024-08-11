@@ -1,0 +1,11 @@
+User-agent: Googlebot 
+Disallow: /Games
+Disallow: /assets
+
+User-agent: TruliaBot
+Disallow: /Games
+Disallow: /assets
+
+User-agent: grapeshot
+Disallow: /Games
+Disallow: /assets
